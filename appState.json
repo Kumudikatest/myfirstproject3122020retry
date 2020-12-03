@@ -1,0 +1,80 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "1e9dc996-d661-4e58-a1b4-65ace7e1b2b7": {
+        "id": "1e9dc996-d661-4e58-a1b4-65ace7e1b2b7",
+        "parent": null,
+        "name": "MyFirstProject3122020retry.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "MyFirstProject3122020retry.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "MyFirstProject3122020retry"
+        },
+        "triggers": [],
+        "lastUpdated": 1606987931028,
+        "testCases": {
+          "7ac15c0f-62df-4da0-ba2a-6a8cc89fead6": {
+            "id": "7ac15c0f-62df-4da0-ba2a-6a8cc89fead6",
+            "functionId": "1e9dc996-d661-4e58-a1b4-65ace7e1b2b7",
+            "name": "My First Test Case",
+            "event": "{\n    \"key1\": \"value1\",\n    \"key2\": \"value2\",\n    \"key3\": \"value3\"\n}"
+          }
+        }
+      }
+    },
+    "openFiles": [
+      "1e9dc996-d661-4e58-a1b4-65ace7e1b2b7"
+    ],
+    "currentFileId": "1e9dc996-d661-4e58-a1b4-65ace7e1b2b7",
+    "resources": {},
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.4.6.1",
+    "projectName": "MyFirstProject3122020retry",
+    "projectDescription": "My First Project",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1606987938492
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "myfirstproject3122020retry",
+      "url": "https://github.com/Kumudikatest/myfirstproject3122020retry"
+    }
+  }
+}
